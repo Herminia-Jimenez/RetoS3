@@ -27,3 +27,14 @@ body{
     color: grey;
 
 }
+.publish h2{
+    color: #025157;
+}
+.publish >form >p{
+    color: #025157;
+}
+.publish >p{
+    color:#343434;
+}
+
+
